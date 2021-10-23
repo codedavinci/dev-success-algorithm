@@ -3,7 +3,7 @@
 ## "An algorithm that makes a developer succeed 99% of times" 
 
 ============================= <br />
-*This section is mostly done by an Architect and Manager but it’s a good skill to have as a dev*
+*This section is mostly done by the Architect and Manager but it’s a good skill to have as a dev*
 
 ### Project Onboarding 
 
