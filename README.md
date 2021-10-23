@@ -95,7 +95,7 @@
 
 .   .   .   **5.8.1** - `Have you gotten your “that’s it” ?` <br />
 
-.   .   .   .   `No: Repeat from step 5.6`<br />
+.   .   .   .   `No: Repeat from step 5.7`<br />
 
 .   .   .   .   `Yes: Move to step 6`<br />
 
