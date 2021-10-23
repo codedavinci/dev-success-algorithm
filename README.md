@@ -11,11 +11,11 @@
 
 .   **1** - `Listen to new problem`<br />
 
-.   .   **1.1** - `Repeat the problem to the user and validate if you understood correctly`<br />
+.   .   **1.1** - `Repeat the problem to the user and validate if you understood it correctly`<br />
 
 .   .   **1.2** - `Identify how many problems there are` <br />
 
-.   .   .   **1.2.1** - `Is there more than one problem to solve` ?<br />
+.   .   .   **1.2.1** - `Are there more than one problem to solve` ?<br />
 
 .   .   .   .   `Yes: Create a new Note, Repeat step 1.1`			<br />	 
 
