@@ -23,9 +23,9 @@
 
 .   .   .   .   .   **1.2.1.1** - `Have you gotten your “that’s it”` ? <br />
 
-.   .   .   .   .   .   `No: Repeat from 1.2.1.1”`<br />
+.   .   .   .   .   .   `No: Repeat from 1.2.1”`<br />
 
-.   .   .   .   .   .	`Yes: Move to step 2`<br />
+.   .   .   .   .   .	  `Yes: Move to step 2`<br />
 
 .   **2** -  `Break it down`<br />
 
