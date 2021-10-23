@@ -11,7 +11,7 @@
 
 .   **1** - `Listen to new problem`<br />
 
-.   .   **1.1** - `Repeat the problem to the user and validate if you even understood`<br />
+.   .   **1.1** - `Repeat the problem to the user and validate if you understood correctly`<br />
 
 .   .   **1.2** - `Identify how many problems there are` <br />
 
