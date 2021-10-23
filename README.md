@@ -85,7 +85,7 @@
 
 .   .   .   .   `No: Repeat from step 5.1`<br />
 
-.   .   .   .   `Yes: Move to 5.6`<br />
+.   .   .   .   `Yes: Move to 5.7`<br />
 
 .   .   **5.7** - `Analyze a design containing all features`<br />
 
