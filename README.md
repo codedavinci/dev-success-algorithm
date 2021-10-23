@@ -43,7 +43,7 @@
 
  ***(User === Team / Tech Lead / Product Manager)***
  
-.   **3** - `Task Onboarding / What to get it done (Devs - Analysis )`<br />
+.   **3** - `Task Onboarding / What to get done (Devs - Analysis )`<br />
 
 .   .   **3.1** - `Repeat the problem to the user and validate if you understood it correctly.`<br />
 
